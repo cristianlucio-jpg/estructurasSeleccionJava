@@ -38,9 +38,9 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 
 ---
 
-##  Estructura del proyecto
-
- estructurasSeleccionJava/
+## Estructura del proyecto
+```text
+estructurasSeleccionJava/
 ├── src/
 │   ├── ejercicio01/DiasSemana.java
 │   ├── ejercicio02/MayorDosNumeros.java
