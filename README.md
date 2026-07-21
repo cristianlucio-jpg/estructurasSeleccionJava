@@ -42,14 +42,15 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 ```text
 estructurasSeleccionJava/
 ├── src/
-│   ├── ejercicio01/DiasSemana.java
-│   ├── ejercicio02/MayorDosNumeros.java
-│   ├── ejercicio03/MayorTresNumeros.java
-│   ├── ejercicio04/MayorCuatroNumeros.java
-│   ├── ejercicio05/SignoZodiaco.java
-│   ├── ejercicio06/GradosEstados.java
-│   └── ejercicio07/BisiestoNoBisiesto.java
+│   ├── ejercicio01_diasSemana/diasSemana.java
+│   ├── ejercicio02_mayorDosNumeros/mayorDosNumeros.java
+│   ├── ejercicio03_mayorTresNumeros/mayorTresNumeros.java
+│   ├── ejercicio04_mayorCuatroNumeros/mayorCuatroNumeros.java
+│   ├── ejercicio05_signoZodiaco/signoZodiaco.java
+│   ├── ejercicio06_gradosEstados/gradosEstados.java
+│   └── ejercicio07_bisiestoNoBisiesto/bisiestoNoBisiesto.java
 └── README.md
+
 
 Autor
 Cristian Alexis Lucio Narváez  
