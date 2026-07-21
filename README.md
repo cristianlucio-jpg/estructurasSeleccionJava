@@ -42,13 +42,13 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 ```text
 estructurasSeleccionJava/
 ├── src/
-│   ├── ejercicio01_diasSemana/diasSemana.java
-│   ├── ejercicio02_mayorDosNumeros/mayorDosNumeros.java
-│   ├── ejercicio03_mayorTresNumeros/mayorTresNumeros.java
-│   ├── ejercicio04_mayorCuatroNumeros/mayorCuatroNumeros.java
-│   ├── ejercicio05_signoZodiaco/signoZodiaco.java
-│   ├── ejercicio06_gradosEstados/gradosEstados.java
-│   └── ejercicio07_bisiestoNoBisiesto/bisiestoNoBisiesto.java
+│   ├── ejercicio01diasSemana/diasSemana.java
+│   ├── ejercicio02mayorDosNumeros/mayorDosNumeros.java
+│   ├── ejercicio03mayorTresNumeros/mayorTresNumeros.java
+│   ├── ejercicio04mayorCuatroNumeros/mayorCuatroNumeros.java
+│   ├── ejercicio05signoZodiaco/signoZodiaco.java
+│   ├── ejercicio06gradosEstados/gradosEstados.java
+│   └── ejercicio07bisiestoNoBisiesto/bisiestoNoBisiesto.java
 └── README.md
 
 
